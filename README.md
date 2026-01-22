@@ -142,11 +142,12 @@ In our code we made use of the following repositories: [MS-TCN](https://github.c
 ## Citation
 If you use the code, please cite our [paper](https://arxiv.org/abs/2508.04513):
 ```latex
-@inproceedings{gokay2025skeleton,
-  title={Skeleton Motion Words for Unsupervised Skeleton-Based Temporal Action Segmentation},
-  author={G{\"o}kay, Uzay and Spurio, Federico and Bach, Dominik R and Gall, Juergen},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={12101--12111},
-  year={2025}
+@InProceedings{Gokay_2025_ICCV,
+    author    = {G\"okay, Uzay and Spurio, Federico and Bach, Dominik R. and Gall, Juergen},
+    title     = {Skeleton Motion Words for Unsupervised Skeleton-Based Temporal Action Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {12101-12111}
 }
 ```
